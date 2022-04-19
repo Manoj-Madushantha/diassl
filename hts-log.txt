@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 19 Apr 2022 20:14:06 at https://diassl.com/?fbclid=IwAR0NPPySSiTSSVXfMN4XDh-SUR2zuBsbgpVT70JDrODT6FI2Kel0snT-QcQ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://diassl.com/?fbclid=IwAR0NPPySSiTSSVXfMN4XDh-SUR2zuBsbgpVT70JDrODT6FI2Kel0snT-QcQ -O1 "D:\My Web Sites\SATHSARA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:15:03	Warning: 	Moved Permanently for https://diassl.com/?p=16
+20:15:03	Warning: 	File has moved from https://diassl.com/?p=16 to https://diassl.com/about/
+20:15:03	Warning: 	Moved Permanently for https://diassl.com/?p=43
+20:15:03	Warning: 	File has moved from https://diassl.com/?p=43 to https://diassl.com/research/
+20:15:03	Warning: 	Moved Permanently for https://diassl.com/?p=381
+20:15:03	Warning: 	File has moved from https://diassl.com/?p=381 to https://diassl.com/publications/
+20:15:15	Warning: 	Moved Permanently for https://diassl.com/?p=19
+20:15:15	Warning: 	File has moved from https://diassl.com/?p=19 to https://diassl.com/contact/
+20:15:15	Warning: 	Moved Permanently for https://diassl.com/?p=535
+20:15:15	Warning: 	File has moved from https://diassl.com/?p=535 to https://diassl.com/predicting-the-onset-of-shock-induced-buffet-using-dynamic-mode-decomposition/
+20:15:15	Error: 	"Method Not Allowed" (405) at link https://diassl.com/xmlrpc.php (from https://diassl.com/predicting-the-onset-of-shock-induced-buffet-using-dynamic-mode-decomposition/)
+20:15:15	Warning: 	Moved Permanently for https://diassl.com/?p=530
+20:15:15	Warning: 	File has moved from https://diassl.com/?p=530 to https://diassl.com/dynamic-mode-decomposition-uncovers-hidden-oceanographic-features-around-the-strait-of-gibraltar/
+20:15:15	Error: 	"Not Found" (404) at link https://diassl.com/2/ (from https://diassl.com/page/2/?fbclid=IwAR0NPPySSiTSSVXfMN4XDh-SUR2zuBsbgpVT70JDrODT6FI2Kel0snT-QcQ)
+20:15:15	Warning: 	Moved Permanently for https://diassl.com/page/1/?fbclid=IwAR0NPPySSiTSSVXfMN4XDh-SUR2zuBsbgpVT70JDrODT6FI2Kel0snT-QcQ
+20:15:15	Warning: 	File has moved from https://diassl.com/page/1/?fbclid=IwAR0NPPySSiTSSVXfMN4XDh-SUR2zuBsbgpVT70JDrODT6FI2Kel0snT-QcQ to https://diassl.com/?fbclid=IwAR0NPPySSiTSSVXfMN4XDh-SUR2zuBsbgpVT70JDrODT6FI2Kel0snT-QcQ
+20:15:15	Error: 	"Not Found" (404) at link https://diassl.com/3/ (from https://diassl.com/page/3/?fbclid=IwAR0NPPySSiTSSVXfMN4XDh-SUR2zuBsbgpVT70JDrODT6FI2Kel0snT-QcQ)
+20:15:15	Error: 	"Not Found" (404) at link https://diassl.com/4/ (from https://diassl.com/page/4/?fbclid=IwAR0NPPySSiTSSVXfMN4XDh-SUR2zuBsbgpVT70JDrODT6FI2Kel0snT-QcQ)
+20:15:19	Warning: 	Moved Permanently for https://diassl.com/page/1/
+20:15:19	Warning: 	File has moved from https://diassl.com/page/1/ to https://diassl.com/
+20:15:19	Warning: 	Moved Permanently for https://diassl.com/?p=523
+20:15:19	Warning: 	File has moved from https://diassl.com/?p=523 to https://diassl.com/dynamical-mode-analysis-of-tidal-flows-through-the-strait-of-gibraltar/
+20:15:19	Warning: 	Moved Permanently for https://diassl.com/?p=515
+20:15:19	Warning: 	File has moved from https://diassl.com/?p=515 to https://diassl.com/analyzing-the-transition-to-buffeting-of-a-2d-airfoil-using-the-dynamic-mode-decomposition/
+20:15:19	Warning: 	Moved Permanently for https://diassl.com/?p=509
+20:15:19	Warning: 	File has moved from https://diassl.com/?p=509 to https://diassl.com/dynamic-mode-decomposition-of-a-fluid-flow-2/
+20:15:19	Warning: 	Moved Permanently for https://diassl.com/?p=504
+20:15:19	Warning: 	File has moved from https://diassl.com/?p=504 to https://diassl.com/high-pressure-experimental-techniques-on-hydrogen/
+20:15:19	Warning: 	Moved Permanently for https://diassl.com/publications/page/1/
+20:15:19	Warning: 	File has moved from https://diassl.com/publications/page/1/ to https://diassl.com/publications/
+20:15:19	Warning: 	Moved Permanently for https://diassl.com/?p=490
+20:15:19	Warning: 	File has moved from https://diassl.com/?p=490 to https://diassl.com/rainfall-forecasting-using-artificial-neural-networks/
+20:15:19	Warning: 	Moved Permanently for https://diassl.com/?p=431
+20:15:19	Warning: 	File has moved from https://diassl.com/?p=431 to https://diassl.com/lightning-casualties-hazards-in-sri-lanka/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 13 seconds : 199 links scanned, 179 files written (23039649 bytes overall) [22125648 bytes received at 303091 bytes/sec], 1433688 bytes transferred using HTTP compression in 26 files, ratio 20%, 9.9 requests per connection
+(4 errors, 30 warnings, 0 messages)
